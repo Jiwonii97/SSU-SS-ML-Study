@@ -2,7 +2,8 @@
 숭실대학교 연구실에서 진행한 ML 스터디 정리를 위하여 만든 레포지토리 입니다
 
 `밑바닥부터 시작하는 머신러닝` 교재로 스터디를 진행했으며, 한주마다 강의에 대한 내용을 확인하고 발표하는 식으로 진행하였습니다.  
-교재는 다음 [링크](https://github.com/Jiwonii97/deep-learning-from-scratch)를 통해 확인할 수 있습니다.
+교재는 다음 [링크](https://github.com/Jiwonii97/deep-learning-from-scratch)를 통해 확인할 수 있습니다.  
+extra_presentation에는 스터디 외 개별 발표자료를 포함하고 있습니다.  
 
 </br>
 
